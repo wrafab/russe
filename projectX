@@ -1,0 +1,72 @@
+<html>
+<title>3D Scan </title>
+<head>
+<style>
+header {
+    background-color:purple;
+    color:white;
+    text-align:right;
+    padding:5px;	 
+}
+nav {
+    line-height:30px;
+    background-color:black;
+    height:200px;
+    width:100px;
+    float:right;
+    padding:49px;	      
+}
+section {
+    width:320px;
+    float:center;
+    padding:10px;	 	 
+}
+footer {
+    background-color:purple;
+    color:white;
+    text-align:center;
+    padding:15px;	
+}
+body { background-;
+background-repeat:repeat;
+background-position:center;
+width="2000"; height="1000";
+background-color:white;}
+
+
+h1 {font-family:Lucida Handwriting; font-size:200%;text-align:center;}
+h2 {font-family:Verdana; font-size:150%;text-align:center;}
+h3 {font-family:Lucida Handwriting; font-size:125%;text-align:center;}
+p {font-family:Verdana;font-size:}100%;}
+a {font-family:Lucida Handwriting;font-size:}100%;}
+</style>
+</head>
+<body>
+<header>
+<h1>Phone Case</h1>
+</header>
+
+    <br>
+    <p> I
+    image id="normalimg", src=
+    
+    <p> My Files 
+    </p>
+     <ul>
+      <li><a href="Eduino.f3d"></a></li>
+    </ul>
+<nav>
+<p>
+<a href="index.html">Home</a>
+<br>
+<a href="me.html">About Me</a>
+<br>
+<a href="project1.html">Project 1</a>
+<br>
+<a href="projectII.html">Project 2</a>
+<br>
+<a href="projectIV.html">Project 4</a>
+<br>
+<a href="projectV.html">Project 5</a>
+<br>
+<a href="projectVI.html">Project 6</a>
